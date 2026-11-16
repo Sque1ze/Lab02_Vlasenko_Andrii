@@ -1,0 +1,21 @@
+{
+  "title": "Lab02 — EDA of Gapminder life expectancy (1952–2007)",
+  "source_url": "https://www.gapminder.org/data/",
+  "dataset_package": "https://cran.r-project.org/package=gapminder",
+  "license_note": "R gapminder dataset excerpt is documented as CC0; cite Gapminder",
+  "source_in_archive": "data/raw/gapminder.csv",
+  "target": "lifeExp (years at birth)",
+  "unit_of_observation": "country-year",
+  "rows_before": 1704,
+  "rows_after": 1704,
+  "missing_before": 0,
+  "duplicates_country_year": 0,
+  "cleaning": "No rows removed. Added log10_gdp_per_capita and log10_population for EDA.",
+  "versions": {
+    "python": "3.13.15",
+    "pandas": "2.3.3",
+    "numpy": "2.5.5",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2"
+  }
+}

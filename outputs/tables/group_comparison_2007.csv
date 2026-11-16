@@ -1,0 +1,6 @@
+continent,n,mean_lifeExp,median_lifeExp,median_gdpPercap
+Africa,52,54.81,52.93,1452.27
+Asia,33,70.73,72.4,4471.06
+Americas,25,73.61,72.9,8948.1
+Europe,30,77.65,78.61,28054.07
+Oceania,2,80.72,80.72,29810.19

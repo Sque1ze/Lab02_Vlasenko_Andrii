@@ -1,0 +1,31 @@
+{
+  "total_rows": 1704,
+  "n_countries": 142,
+  "first_year": 1952,
+  "last_year": 2007,
+  "mean_1952": 49.057619718309866,
+  "mean_2007": 67.00742253521126,
+  "mean_delta": 17.949802816901396,
+  "corr_income_life_2007": 0.8089802514849209,
+  "2007_continent_mean": {
+    "Africa": 54.81,
+    "Americas": 73.61,
+    "Asia": 70.73,
+    "Europe": 77.65,
+    "Oceania": 80.72
+  },
+  "gains_top5": {
+    "Oman": 38.062,
+    "Vietnam": 33.837,
+    "Indonesia": 33.182,
+    "Saudi Arabia": 32.902,
+    "Libya": 31.229
+  },
+  "gains_bottom5": {
+    "Zimbabwe": -4.964,
+    "Swaziland": -1.794,
+    "Zambia": 0.346,
+    "Lesotho": 0.454,
+    "Botswana": 3.106
+  }
+}
